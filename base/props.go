@@ -3,7 +3,7 @@ package base
 import (
 	"sync"
 
-	"resk.com/infra"
+	infra "resk.wen"
 
 	"github.com/tietang/props/kvs"
 )

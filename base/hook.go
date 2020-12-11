@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	log "github.com/sirupsen/logrus"
-	"resk.com/infra"
+	infra "resk.wen"
 )
 
 var callbacks []func()

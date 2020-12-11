@@ -6,7 +6,7 @@ import (
 	"reflect"
 
 	log "github.com/sirupsen/logrus"
-	"resk.com/infra"
+	infra "resk.wen"
 )
 
 var rpcServer *rpc.Server
