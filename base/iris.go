@@ -3,7 +3,7 @@ package base
 import (
 	"time"
 
-	infra "resk.wen"
+	infra "github.com/masterzcw/resk.wen"
 
 	"github.com/kataras/iris"
 	"github.com/kataras/iris/middleware/logger"

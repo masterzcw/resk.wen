@@ -1,4 +1,4 @@
-module resk.wen
+module github.com/masterzcw/resk.wen
 
 go 1.13
 
@@ -14,7 +14,6 @@ require (
 	github.com/go-ini/ini v1.62.0 // indirect
 	github.com/go-playground/locales v0.13.0
 	github.com/go-playground/universal-translator v0.17.0
-	github.com/go-redsync/redsync v1.4.2 // indirect
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/gorilla/schema v1.2.0 // indirect
@@ -56,5 +55,4 @@ require (
 	gopkg.in/go-playground/validator.v9 v9.31.0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	moul.io/http2curl v1.0.0 // indirect
-	upper.io/db.v3 v3.7.1+incompatible // indirect
 )

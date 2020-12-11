@@ -5,8 +5,8 @@ import (
 	"net/rpc"
 	"reflect"
 
+	infra "github.com/masterzcw/resk.wen"
 	log "github.com/sirupsen/logrus"
-	infra "resk.wen"
 )
 
 var rpcServer *rpc.Server

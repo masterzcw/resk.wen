@@ -1,1 +1,1 @@
-# resk.wen
+# github.com/masterzcw/resk.wen

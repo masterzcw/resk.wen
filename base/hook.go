@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"syscall"
 
+	infra "github.com/masterzcw/resk.wen"
 	log "github.com/sirupsen/logrus"
-	infra "resk.wen"
 )
 
 var callbacks []func()

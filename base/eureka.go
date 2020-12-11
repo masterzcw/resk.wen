@@ -5,7 +5,7 @@ import (
 
 	"github.com/kataras/iris"
 	"github.com/tietang/go-eureka-client/eureka"
-	infra "resk.wen"
+	infra "github.com/masterzcw/resk.wen"
 )
 
 // 注册发现

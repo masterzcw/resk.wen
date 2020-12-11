@@ -1,7 +1,7 @@
 package base
 
 import (
-	infra "resk.wen"
+	infra "github.com/masterzcw/resk.wen"
 
 	"github.com/go-playground/locales/zh"
 	ut "github.com/go-playground/universal-translator"
